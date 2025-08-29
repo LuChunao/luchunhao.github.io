@@ -12,6 +12,7 @@ I received my B.E. in Artificial Intelligence from [China University of Petroleu
 
 # Education
 M.Eng. @ China University of Petroleum-Beijing, Aug. 2023 -- July. 2026 (Expected)
+
 **Research Interest**: Multimodal Generation and Understanding, Diffusion Model, Interpretable Models
 
 **Major**: Artificial Intelligence, **Rank**: 1 / 30
