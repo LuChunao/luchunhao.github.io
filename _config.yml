@@ -13,7 +13,7 @@ title                    : "Chunhao Lu / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Chunhao Lu"
 description              : &description "3rd year Master Candidate @ College of Artificial Intelligence., China University of Petroleum-Beijing"
-url                      : https://luchunhao.github.io
+url                      : https://luchunao.github.io/luchunhao.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "LuChunao/luchunhao.github.io"
 
