@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I received my B.E. in Artificial Intelligence from [China University of Petroleum-Beijing](https://cup.edu.cn/) in July. 2023. And currently I am a third year Master Candidate from [College of Artificial Intelligence](https://www.cup.edu.cn/cupai/), [China University of Petroleum-Beijing](https://cup.edu.cn/). My research interest includes Multimodal Generation and Understanding, Diffusion Model, Deep Learning, and Interpretable Models. I am very fortunate to be advised by [Prof. Qiang Lu](https://scholar.google.com/citations?user=m61aeIAAAAAJ&hl=en) of Beijing Key Laboratory of Petroleum Data Mining from College of Artificial Intelligence, China University of Petroleum-Beijing.
+I received my B.E. in Artificial Intelligence from China University of Petroleum-Beijing in July. 2023. And currently I am a third year Master Candidate from [College of Artificial Intelligence](https://www.cup.edu.cn/cupai/), [China University of Petroleum-Beijing](https://cup.edu.cn/). My research interest includes Multimodal Generation and Understanding, Diffusion Model, Deep Learning, and Interpretable Models. I am very fortunate to be advised by [Prof. Qiang Lu](https://scholar.google.com/citations?user=m61aeIAAAAAJ&hl=en) of Beijing Key Laboratory of Petroleum Data Mining from College of Artificial Intelligence, China University of Petroleum-Beijing.
 
 # Education
 <font size=4>M.Eng. @ China University of Petroleum-Beijing, Aug. 2023 -- July. 2026 (Expected)</font>
